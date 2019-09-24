@@ -43,5 +43,6 @@ nav a{
    text-decoration: none;
 }
 body{
-   line-height: 1px;
+   /* BAD */
+   /* line-height: 1px; */
 }
